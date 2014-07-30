@@ -41,6 +41,18 @@ All of this will take time, and we're just getting started.  If you're
 looking for a lightweight CMS (and you don't need it right away),
 check back later.  Watch NxPg take shape.  Join us.
 
+##Goals:
+
+The goal of the NxPg project is to culture an open source community to develop a CMS that strives for the following goals:
+
+* Lightweight
+
+* Safe and Secure
+
+* Simple to deploy, simple to manage
+
+* Create an active and welcoming community
+
 -----
 
 NxPg was originally created by [Unidev][1], 16690 Swingley Ridge Road, Suite 250, 
