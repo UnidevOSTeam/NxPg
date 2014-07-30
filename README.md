@@ -1,5 +1,4 @@
-NxPg
-----
+#NxPg
 
 This README file is a placeholder.  NxPg itself isn't ready yet.
 
@@ -10,7 +9,7 @@ As currently envisioned, NxPg requires some technical knowledge to
 first set up a site -- such as PHP, HTML, and MySQL.  After that,
 someone with little technical background can maintain the contents.
 
-*The backstory:*
+##The backstory:
 
 Several years ago, we at [Unidev][1] developed a website for a local manufacturer.  
 The delivered product included administrative tools for the client to maintain the 
@@ -20,7 +19,7 @@ with it.
 Since we retained the copyrights to the code delivered to the client, we 
 can open the source and let others adapt it to their needs.
 
-*The problem:*
+##The problem:
 
 The client's data is not completely separated from the administrative code.
 The PHP contains hard-coded references to the client's business.
