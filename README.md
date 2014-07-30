@@ -62,6 +62,7 @@ The goal of the NxPg project is to culture an open source community to develop a
 * Draft a list of community standards.
 
 * Begin to upload code.
+
 -----
 
 NxPg was originally created by [Unidev][1], 16690 Swingley Ridge Road, Suite 250, 
